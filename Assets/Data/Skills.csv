@@ -1,0 +1,2 @@
+Attack,Deal 10 Damage,,10,0
+Restore,Restore 10 Health,>=2,0,10
